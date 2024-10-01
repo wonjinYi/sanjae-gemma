@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+
+.east-sea-dokdo-regular {
+  font-family: "East Sea Dokdo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.diphylleia-regular {
+  font-family: "Diphylleia", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gowun-batang-regular {
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gowun-batang-bold {
+  font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+// ----------
+
+* {
+  box-sizing: border-box;
+  margin : 0;
+  padding : 0;
+
+  word-break: keep-all;
+}
+html {
+  scroll-behavior: smooth; 
+}
+
+// colors
+$primary-color : #190482;
+$secondary-color : #7752FE;
+$tertiary-color : #f1f8ff; // #8E8FFA;
+$error-color : #980000;
+$on-primary-color : #FFFFFF;
+$on-secondary-color : #FFFFFF;
+$on-tertiary-color : #000000;
+$on-error-color : #FFFFFF;
+
+$grey-strong : #4a4a4a;
+$grey-medium : #e2e4e5;
+// $grey-light : #f7f7fa
+$grey-light : #f5f5f5;
+
+// sizes
+$header-height : 72px;
+$footer-height : 64px;
