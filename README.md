@@ -5,8 +5,9 @@ An industrial accident analysis service based on precedents related to industria
 It aims to assist individuals who have been denied approval for their claims.
 
 > - **Service URL**: [sanjae-gamma.wonj.in](https://sanjae-gemma.wonj.in.)
+> - **Github Repo**: [sanjae-gamma](https://github.com/wonjinYi/sanjae-gemma)
 
-- **Github Repo**: [sanjae-gamma](https://github.com/wonjinYi/sanjae-gemma)
+![](./readme_images/overview_screenshots.png)
 
 # Gemma Sprint
 
