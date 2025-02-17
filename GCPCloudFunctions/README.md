@@ -1,7 +1,8 @@
 # GCP Cloud Functions
 
-This directory cotnains codes(files) used on GCP Cloud Function Service
-(Now CF replaced with Cloud Run Function. Anyway still the legacy product works).
+This directory cotnains codes(files) used on GCP Cloud Functions Service
+
+(Now Cloud Functions replaced with Cloud Run Function. Anyway still the legacy product works).
 
 ## Why this directory is provided
 
@@ -19,6 +20,6 @@ When you need to create your Cloud Function Service on GCP, you can use the file
 > `Python 3.12 (Ubuntu 22 Full)` environment is recommended.
 
 1. Open GCP Console, Create your Cloud Function (or, Cloud Run Function)
-2. Copy-Past each service directories' files. (main.py and requirements.txt)
+2. Copy-Paste each service directories' files. (main.py and requirements.txt)
 3. Deploy your Cloud Function Service
 4. Use your endpoint from the Cloud Function Service
