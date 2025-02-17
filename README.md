@@ -49,6 +49,8 @@ It then guides the user in two ways: one is to search for and summarize the rele
 
 The features provided by the frontend require the power of AI. There are simple flask-based servers as an intermediary for calling AI services. These servers run on GCP Cloud Function.
 
+If you need a simple guide and template, you can refer to the directory `GCPCloudFunctions` on root of this repository.
+
 ### AI Services
 
 - User Cases Analysis :
